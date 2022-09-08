@@ -10,10 +10,7 @@ const Global = createGlobalStyle`
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* background-color: yellow; */
   text-align: center;
-  /* list-style: none; */
-  
 }
 `;
 

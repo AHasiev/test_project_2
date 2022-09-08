@@ -13,10 +13,10 @@ const StyledDiv = styled.div`
 `;
 
 const InputTitle = styled.input`
-  :checked+span  {
+  :checked + span {
     opacity: 0.5;
     text-decoration: line-through;
-  } ;
+  }
 `;
 
 const SpanText = styled.span`
